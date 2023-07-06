@@ -1,0 +1,76 @@
+<!doctype html> 
+
+<html>
+
+         <head>
+	 <title>Paragrafo</title>
+  	 <meta charset="utf-8">
+ 	 </head>
+         <body>
+ 	 <!-- Lista não ordenada. circle, square, disc -->
+            <h2>Lista não ordenada circle</h2>
+             
+            <ul type="circle">
+                <li>Home</li>
+                <li>quem somos</li>
+                <li>Contatos</li>
+            </ul>
+           
+           <hr>
+            
+            <h2> Lista não ordenada square,</h2>
+            <ul type="square">
+                <li>Home</li>
+                <li>quem somos</li>
+                <li>Contatos</li>
+                 </ul>
+                 
+                 <hr>
+
+                 <h2>Lista Não ordenada Disc</h2>
+                <ul type="disc">
+                <li>Home</li>
+                <li>quem somos</li>
+                <li>Contatos</li>
+                 </ul>
+                
+                 <hr>
+
+                 <!-- Lista   ordenada:1,A,a, I  -->
+
+            <h2>Lista ordenada 1</h2>
+            <ol type="1">
+                    <li>Comida Favorita </li>
+                    <li>Carro Favorito</li>
+                    <li>Lugar Favorito</li>
+            </ol>
+            <hr>
+                <h2>Lista ordenada A</h2>
+                <ol type="A">
+                    <li>Comida Favorita </li>
+                    <li>Carro Favorito</li>
+                    <li>Lugar Favorito</li>
+            </ol>
+            <hr>
+
+            <h2>Lista ordenada a (a minusculo faz toda diferença)</h2>
+            <ol type="a">
+                    <li>Comida Favorita </li>
+                    <li>Carro Favorito</li>
+                    <li>Lugar Favorito</li>
+            </ol>
+            <hr>
+
+            <h2>Lista ordenada I</h2>
+            <ol type="I">
+                    <li>Comida Favorita </li>
+                    <li>Carro Favorito</li>
+                    <li>Lugar Favorito</li>
+ 	 
+
+<hr>
+
+
+         </body> 
+
+</html>
